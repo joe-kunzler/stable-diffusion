@@ -164,7 +164,6 @@ with autocast("cuda"):
 image.save("astronaut_rides_horse.png")
 ```
 
-
 ### Image Modification with Stable Diffusion
 
 By using a diffusion-denoising mechanism as first proposed by [SDEdit](https://arxiv.org/abs/2108.01073), the model can be used for different 
